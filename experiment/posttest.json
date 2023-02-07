@@ -2,12 +2,46 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": ". As the load is increased the speed of DC shunt motor will ___________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Increase slightly",
+        "b": "Increase proportionately",
+        "c": "Reduce slightly",
+        "d": "Reduce rapidly"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The plugging braking gives the __________",
+      "answers": {
+        "a": "Zero torque braking",
+        "b": "Smallest torque braking",
+        "c": "Highest torque braking",
+        "d": "Variable torque braking"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+      },
+    {
+      "question": "Which of the following is correct formula for braking torque in plugging?",
+      "answers": {
+        "a": "n (ka2/Rb)",
+        "b": "n2 (ka2/Rb)",
+        "c": "n-1 (ka2/Rb)",
+        "d": "(ka2/Rb)"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -17,14 +51,14 @@
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
-    },
+      },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Speed torque characteristic of DC shunt motor is _______________",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Starting from origin",
+        "b": "Starting from speed axis and increasing",
+        "c": "Starting from speed axis and decreasing",
+        "d": "Starting from speed axis and constant"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
