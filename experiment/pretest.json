@@ -2,12 +2,29 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Speed of DC shunt motor is directly proportional to___________ ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Flux",
+        "b": "Back emf  ",
+        "c": "Terminal voltage",
+        "d": "Armature resistance drop"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": " In a circuit, the current is directly proportional to __________. ",
+      "answers": {
+        "a": "voltage ",
+        "b": "resistor ",
+        "c": "both a and b ",
+        "d": "temperature"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -17,14 +34,14 @@
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
-    },
+      },
     {
-      "question": "This is a Sample Question 2?",
+      "question": " The armature torque of the DC shunt motor is proportional to ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Field flux only ",
+        "b": "Armature current only ",
+        "c": "Field flux and armature current ",
+        "d": "Field current"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,7 +49,7 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]
