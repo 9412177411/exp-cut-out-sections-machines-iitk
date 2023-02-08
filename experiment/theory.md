@@ -12,6 +12,9 @@ Construction of a DC Machine: A DC machine consists of two basic parts; stator a
 for reducing eddy current losses. It may be provided with air ducts for the axial air flow for cooling purposes. Armature is keyed to the shaft.
  5. Armature winding: It is usually a former wound copper coil which rests in armature slots. The armature conductors are insulated from each other and also from the armature core. Armature winding can be wound by one of the two methods; lap winding or wave winding.
  6. Commutator and brushes: The function of a commutator, in a dc generator is to collect the current generated in armature conductors whereas, in case of a dc motor, commutator helps in providing current to the armature conductors. A commutator consists of a set of copper segments which are insulated from each other. The number of segments is equal to the number of armature coils. Brushes are usually made from carbon or graphite. They rest on commutator segments and slide on the segments when the commutator rotates keeping the physical contact to collect or supply the current. 
+
+![image](https://user-images.githubusercontent.com/117304603/217434392-2e864ddc-f227-43be-b7d6-d22fd03a63e8.png)
+
  
 Basic Construction and Working of an Induction Machine the A.C. Induction Motor has three main parts, rotor, stator and enclose.
 
@@ -20,6 +23,8 @@ Basic Construction and Working of an Induction Machine the A.C. Induction Motor 
 3.	 Rotor: The rotor is the rotating part of the motor’s electromagnetic circuit. The most common type of rotor used in a three phase induction motor is a squirrel cage rotor. A squirrel cage rotor core is made by stacking thin steel laminations to form the conductor bars. After die casting, rotor conductor bars are mechanically and electrically connected with end rings. 
 4.	Enclosure: The enclosure consists of a frame and two end bells (or bearing housings) the stator is mounted inside the frame. The rotor fits inside the stator with a slight air gap separating it from the stator. The enclosure protects the internal parts of the motor from water and other environmental elements.
 5.	 Bearings and fan: Bearings mounted on the shaft, support the rotor and allow it to turn. Some motors use a fan also mounted on the rotor shaft to cool the motor when the shaft is rotating.
+
+![image](https://user-images.githubusercontent.com/117304603/217434795-e9f59d6b-eec6-4a84-870a-198ead436685.png)
 
 
 Construction of a Synchronous Machine
@@ -34,6 +39,9 @@ Construction of a Synchronous Machine
 Salient pole type rotor is used in low and medium speed alternators. Construction of AC generator of salient pole type rotor is shown in the figure above. This type of rotor consists of large number of projected poles (called salient poles), bolted on magnetic wheel. These poles are also laminated to minimize the eddy current losses. Alternators featuring this type of rotor are large in diameters and short in axial length
 2.    Cylindrical type: 
 Cylindrical type rotors are used in high speed alternators, especially in turbo alternators. This type of rotor consists  of a smooth and solid steel cylinder having slots along its outer periphery. Field windings are placed in these slots. The DC supply is given to the rotor winding through the slip rings and brushes arrangement.
+
+![image](https://user-images.githubusercontent.com/117304603/217435001-34a3c97b-3913-4a25-b008-0c74dc9ca93b.png)
+
 
 
 
