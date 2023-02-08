@@ -2,18 +2,18 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Speed of DC shunt motor is directly proportional to___________ ?",
+      "question": "The direction of rotation of a DC motor can be determined by:",
       "answers": {
-        "a": "Flux",
-        "b": "Back emf  ",
-        "c": "Terminal voltage",
-        "d": "Armature resistance drop"
+        "a": "Ampere’s law",
+        "b": "Fleming’s left-hand rule",
+        "c": "Fleming’s right-hand rule",
+        "d": "Lenz’s law"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "Ampere's law is used to determine magnetic induction due to a long current carring wire.  <a href='www.google.com'>here</a>",
+        "b": "Fleming’s left hand rule is used to find the direction of force or motion acting on the moving coil in the DC motor.",
+        "c": "Fleming's right hand rule is used to find the direction of current in a generator's winding",
+        "d": "Lenz's law is used to determine the direction of the induced current."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -27,10 +27,10 @@
         "d": "temperature"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "According to ohm's law, the current is directly proportional to potential difference.  <a href='www.google.com'>here</a>",
+        "b": "It violates ohm's law",
+        "c": "Option b violates ohm's law ",
+        "d": "Current is invrsely proportional to resistance and resistance directly proportional to temperature because as the temperature increases, resistivity increases and resistance also increases. "
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
