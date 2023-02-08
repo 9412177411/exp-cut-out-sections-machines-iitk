@@ -12,44 +12,44 @@
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
-        "c": "Explanation 2",
+        "c": "To maintain the voltage at a constant value.",
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "The plugging braking gives the __________",
+      "question": "A three phase slip ring induction motor is fed from the rotor side with the stator winding short-circuited stator is ......",
       "answers": {
-        "a": "Zero torque braking",
-        "b": "Smallest torque braking",
-        "c": "Highest torque braking",
-        "d": "Variable torque braking"
+        "a": "slip frequency",
+        "b": "supply frequency",
+        "c": "The frequency corresponding to rotor speed",
+        "d": "Zero"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
-      "difficulty": "beginner"
-      },
-    {
-      "question": "Which of the following is correct formula for braking torque in plugging?",
-      "answers": {
-        "a": "n (ka2/Rb)",
-        "b": "n2 (ka2/Rb)",
-        "c": "n-1 (ka2/Rb)",
-        "d": "(ka2/Rb)"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "The relative speed between rotor magnetic field and stator conductors is slip speed and hence the frequency of induced e.m.f is equal to slip frequency.  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
       "correctAnswer": "a",
+      "difficulty": "beginner"
+      },
+    {
+      "question": "The frame of an inductionmotor is made of",
+      "answers": {
+        "a": "aluminium",
+        "b": "silicon steel",
+        "c": "cast iron",
+        "d": "stainless steel"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "The frame of an induction machine made of cast iron. The power factor of an induction motor depends upon the air gap between stator and rotor.",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
       "difficulty": "beginner"
       },
     {
@@ -62,6 +62,23 @@
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Speed-torque characteristic falls as torque increases, because armature reaction causes decrease in flux whose square is in inverse proportion with speed, causing decrease in speed rapidly compare to increase in torque.",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+      },
+    {
+      "question": "Synchronous motors are_______",
+      "answers": {
+        "a": "not self starting",
+        "b": " self starting",
+        "c": "single excited",
+        "d": "none of the mentioned"
+      },
+      "explanations": {
+        "a": "The average torque developed in the synchronous motor is zero.  <a href='www.google.com'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
