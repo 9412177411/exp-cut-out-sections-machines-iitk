@@ -12,10 +12,9 @@ Construction of a DC Machine: A DC machine consists of two basic parts; stator a
 for reducing eddy current losses. It may be provided with air ducts for the axial air flow for cooling purposes. Armature is keyed to the shaft.
  5. Armature winding: It is usually a former wound copper coil which rests in armature slots. The armature conductors are insulated from each other and also from the armature core. Armature winding can be wound by one of the two methods; lap winding or wave winding.
  6. Commutator and brushes: The function of a commutator, in a dc generator is to collect the current generated in armature conductors whereas, in case of a dc motor, commutator helps in providing current to the armature conductors. A commutator consists of a set of copper segments which are insulated from each other. The number of segments is equal to the number of armature coils. Brushes are usually made from carbon or graphite. They rest on commutator segments and slide on the segments when the commutator rotates keeping the physical contact to collect or supply the current. 
-
-![image](https://user-images.githubusercontent.com/117304603/217434392-2e864ddc-f227-43be-b7d6-d22fd03a63e8.png)
-
  
+ ![image](https://user-images.githubusercontent.com/117304603/217448104-2b7a05b6-390f-4954-ac3e-add8fb750ea5.png)
+
 Basic Construction and Working of an Induction Machine the A.C. Induction Motor has three main parts, rotor, stator and enclose.
 
 1.	Stator core: The stator is the stationary part of the motor’s electromagnetic circuit and is made up of thin metal sheets, called laminations. Laminations are used to reduce energy losses. 
@@ -24,7 +23,8 @@ Basic Construction and Working of an Induction Machine the A.C. Induction Motor 
 4.	Enclosure: The enclosure consists of a frame and two end bells (or bearing housings) the stator is mounted inside the frame. The rotor fits inside the stator with a slight air gap separating it from the stator. The enclosure protects the internal parts of the motor from water and other environmental elements.
 5.	 Bearings and fan: Bearings mounted on the shaft, support the rotor and allow it to turn. Some motors use a fan also mounted on the rotor shaft to cool the motor when the shaft is rotating.
 
-![image](https://user-images.githubusercontent.com/117304603/217434795-e9f59d6b-eec6-4a84-870a-198ead436685.png)
+![image](https://user-images.githubusercontent.com/117304603/217448977-1627d364-6fef-4ffd-8154-0d5541c3dac8.png)
+
 
 
 Construction of a Synchronous Machine
