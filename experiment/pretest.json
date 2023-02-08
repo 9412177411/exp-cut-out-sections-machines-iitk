@@ -44,10 +44,10 @@
         "d": "Field current"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": " Field flux is constant in DC shunt motors. <a href='www.google.com'>here</a>",
+        "b": "for dc machine, torque is directly proportional to armature current and flux. In dc shunt motors, flux is constant. Hence torque is directly proportional to armature current.",
+        "c": "Field flux is constant in DC shunt motors therefore only depends on armature current.",
+        "d": "In DC shunt motors , the armature torque does not depend on field current. "
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
