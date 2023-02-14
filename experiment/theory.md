@@ -18,6 +18,8 @@ for reducing eddy current losses. It may be provided with air ducts for the axia
 ##### **6. Commutator and brushes:**
 The function of a commutator, in a dc generator is to collect the current generated in armature conductors whereas, in case of a dc motor, commutator helps in providing current to the armature conductors. A commutator consists of a set of copper segments which are insulated from each other. The number of segments is equal to the number of armature coils. Brushes are usually made from carbon or graphite. They rest on commutator segments and slide on the segments when the commutator rotates keeping the physical contact to collect or supply the current. 
 
+<img src= "![image](https://user-images.githubusercontent.com/117304603/218652026-b135564e-7789-418c-b3bb-c675e41f5d69.png)">
+
 
 ### **Construction of a three phase Induction Machine** 
 
