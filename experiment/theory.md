@@ -110,7 +110,7 @@ Salient pole type rotor is used in low and medium speed alternators. Constructio
 ##### **2. Cylindrical type:** 
 Cylindrical type rotors are used in high speed alternators, especially in turbo alternators. This type of rotor consists  of a smooth and solid steel cylinder having slots along its outer periphery. Field windings are placed in these slots. The DC supply is given to the rotor winding through the slip rings and brushes arrangement.
 
-
+<img src="images/Screenshot_20230214_122342.png" width="350" heigth="350">
 
 
 
