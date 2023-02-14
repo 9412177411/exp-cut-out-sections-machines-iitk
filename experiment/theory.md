@@ -69,7 +69,7 @@ The external resistors enable the variation of each rotor phase resistance to se
 
 To increase the starting torque and reduce the starting current from the supply.
 To control the speed of the motor.
-
+<img src="images/Screenshot_20230214_122145.png" width= "350" height="350">
 
 
 ### **Construction of Single-Phase Induction Motor**
