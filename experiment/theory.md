@@ -91,6 +91,8 @@ Rotor of single-phase induction motor is the same as a rotor of squirrel cage in
 
 The rotor slots are skewed at some angle to avoid magnetic coupling. And it also used to make a motor run smooth and quiet.
 
+<img src= "images/Screenshot_20230214_121859.png" width="350" heidth="350">
+
 
 
 ### **Construction of a Synchronous Machine**
