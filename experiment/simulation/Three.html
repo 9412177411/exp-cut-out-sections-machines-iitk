@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Dcmachine.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="./hmm.css">
+</head>
+
+<body>
+    <div id="firsth">
+ <h2>Familiarization of the electrical machine laboratory apparatus.</h2>
+</div>
+<div id="secondh">
+ <h1 >Simulation</h1></div>
+    <div class="allcard">
+        <div class="card">
+            <img src="threephasestator.jpeg">
+            <button onclick="content('demo1')" value="0">Name of the equipment</button>
+            <p id="demo1" class="demo">Stator</p>
+            <button onclick="content('func1')" value="0">Function</button>
+            <p id="func1" class="demo">The stator is the stationary part of the motor. It consists of a steel frame which encloses a hollow cylindrical core. The core of the three phase induction motor is made up of thin laminations of silicon steel to reduce the eddy current and hysteresis losses.
+
+                A number of equally spaced slots are provided on the inner periphery of the laminated core. The insulated conductors are placed in these stator slots and are connected in a suitable manner to form a balanced 3-phase star or delta connected stator winding.
+                </p>
+        </div>
+        <div class="card">
+            <img src="sqrirrel.jpeg">
+            <button  onclick="content('demo2')" value="0">Name of the equipment</button>
+            <p id="demo2" class="demo">Squirrel Cage Type Rotor</p>
+            <button onclick="content('func2')" value="0">Function</button>
+            <p id="func2" class="demo">The squirrel cage rotor consists of a cylindrical laminated core having slots on its outer periphery which are nearly parallel to the shaft axis or skewed. An uninsulated copper or aluminium bar (rotor conductor) is placed in each slot.
+
+                At each end of the rotor, the rotor bar conductors are short-circuited by heavy end rings of the same material. This forms a permanently short circuited winding which is indestructible. This entire arrangement resembles a cage which was once commonly used for keeping squirrels and hence the name.
+                </p>
+            
+        </div>
+        <div class="card">
+            <img src="slip.jpeg">
+            <button onclick="content('demo3')" value="0">Name of the equipment</button>
+            <p id="demo3" class="demo">Wound Rotor or Slip Ring Rotor</p>
+            <button onclick="content('func3')" value="0">Function</button>
+            <p id="func3" class="demo">The slip ring rotor consists of a laminated cylindrical armature core. The slots are provided on the outer periphery and insulated conductors are put in the slots. The rotor conductors are connected to form a 3-phase double layer distributed winding similar to the stator winding. The rotor windings are connected in star fashion 
+                The open ends of the star circuit are taken outside the rotor and connected to three insulated slip rings. The slip rings are mounted on the rotor shaft with brushes resting on them. The brushes are connected to three variable resistors which are also connected in star. Here, the slip rings and brushes are used to provide a mean for connecting external resistors in the rotor circuit. 
+                </p>
+        
+        
+
+    </div>
+</body>
+<script src="dcmachine.js"></script>
+</html>
