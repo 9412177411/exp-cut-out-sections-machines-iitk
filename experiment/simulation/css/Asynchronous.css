@@ -1,0 +1,46 @@
+
+body{
+    background-color: #949090;
+}
+.services-list{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(250px,1fr));
+    grid-gap: 290px;
+    margin-top: 90px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.services-list div{
+    background: #312f2f;
+    padding: 40px;
+    font-size: 13px;
+    font-weight: 300;
+    border-radius: 10px;
+    transition: background 0.5s,transform 0.5s;
+}
+.services-list div h2{
+    font-size: 28px;
+    font-weight: 500;
+    margin-bottom: 15px;
+    color: white;
+}
+
+.services-list div a{
+text-decoration: none;
+display: inline-block;
+color: #fff;
+font-size: 12px;
+margin-top: 20px;
+}
+.services-list div:hover{
+background: #b30b40;
+transform: translateY(-10px);
+}
+
+#main2{
+    background: #201f1f;
+    height: 67px;
+    text-align: center;
+    color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
