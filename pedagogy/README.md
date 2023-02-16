@@ -81,5 +81,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.|  <br> | <br> |   
-2.|  <br> | <br> |
+1.|  Students can see three types of machines.  | Simulator will show three types of machines with the name. | To see the parts of a machine.  
+2.|  Students can click on DC machine to see the parts of DC machine. | Simulator will show the parts of DC machine with the names and their functions. | To see the parts of DC machine and understand the function of its parts.
+3.|  Students can now click on asynchronous machine.  |  Simulator will show two machines (Single phase induction machine and Three phase induction machine). | To see the parts of selected machine and understand their functions.
+4.|  Students can now click on the synchronous machine.  |  Simulator will show the parts of synchronous machine with their names and their functions. |  To see the parts of synchronous machine and understand their functions.
