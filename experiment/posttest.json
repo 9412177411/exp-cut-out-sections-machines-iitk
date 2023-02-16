@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": ". As the load is increased the speed of DC shunt motor will ___________",
+      "question": "1.As the load is increased the speed of DC shunt motor will ___________",
       "answers": {
         "a": "Increase slightly",
         "b": "Increase proportionately",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "A three phase slip ring induction motor is fed from the rotor side with the stator winding short-circuited stator is ......",
+      "question": "2.A three phase slip ring induction motor is fed from the rotor side with the stator winding short-circuited stator is ......",
       "answers": {
         "a": "slip frequency",
         "b": "supply frequency",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
       },
     {
-      "question": "The frame of an inductionmotor is made of",
+      "question": "3.The frame of an inductionmotor is made of",
       "answers": {
         "a": "aluminium",
         "b": "silicon steel",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
       },
     {
-      "question": "Speed torque characteristic of DC shunt motor is _______________",
+      "question": "4.Speed torque characteristic of DC shunt motor is _______________",
       "answers": {
         "a": "Starting from origin",
         "b": "Starting from speed axis and increasing",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
       },
     {
-      "question": "Synchronous motors are_______",
+      "question": "5.Synchronous motors are_______",
       "answers": {
         "a": "not self starting",
         "b": " self starting",
