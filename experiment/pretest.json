@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The direction of rotation of a DC motor can be determined by:",
+      "question": "1.The direction of rotation of a DC motor can be determined by:",
       "answers": {
         "a": "Ampere’s law",
         "b": "Fleming’s left-hand rule",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": " In a circuit, the current is directly proportional to __________. ",
+      "question": " 2. In a circuit, the current is directly proportional to __________. ",
       "answers": {
         "a": "voltage ",
         "b": "resistor ",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
       },
     {
-      "question": " The armature torque of the DC shunt motor is proportional to ",
+      "question": "3. The armature torque of the DC shunt motor is proportional to ",
       "answers": {
         "a": "Field flux only ",
         "b": "Armature current only ",
