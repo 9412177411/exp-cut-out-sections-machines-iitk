@@ -27,3 +27,4 @@
 ![yoke](https://user-images.githubusercontent.com/117304603/219287001-4ffa9e3b-f717-4d89-aed8-2ac0314df6c8.jpeg)
 ![yoke](https://user-images.githubusercontent.com/117304603/219287021-5b041165-a8cb-454c-9532-ac8fae341eb9.png)
 
+![armaturewinding](https://user-images.githubusercontent.com/117304603/222361911-b3361253-305f-4d4a-877b-9671577573ba.jpeg)
