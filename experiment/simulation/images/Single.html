@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Dcmachine.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="">
+</head>
+
+<body>
+    <div id="firsth">
+        <h2>Familiarization of the electrical machine laboratory apparatus.</h2>
+       </div>
+       <div id="secondh">
+        <h1 >Simulation</h1></div>
+    <div class="allcard">
+        <div class="card">
+            <img src="threestator.jpeg">
+            <button onclick="content('demo1')" value="0">Name of the equipment</button>
+            <p id="demo1" class="demo">Stator</p>
+            <button onclick="content('func1')" value="0">Function</button>
+            <p id="func1" class="demo">there are two winding are used in stator except in shaded-pole induction motor. Out of these two windings, one winding is the main winding and the second is auxiliary winding.
+The stator core is laminated to reduce the eddy current loss. The single-phase supply is given to the stator winding (main winding)
+</p>
+        </div>
+        <div class="card">
+            <img src="singlephaserotor.jpeg">
+            <button  onclick="content('demo2')" value="0">Name of the equipment</button>
+            <p id="demo2" class="demo">Rotor</p>
+            <button onclick="content('func2')" value="0">Function</button>
+            <p id="func2" class="demo">Rotor of single-phase induction motor is the same as a rotor of squirrel cage induction motor. Instead of rotor winding, rotor bars are used and it is short-circuited at the end by end-rings. Hence, it makes a complete path in the rotor circuit. The rotor bars are braced to the end-rings to increase the mechanical strength of the motor</p>
+            
+        </div>
+        
+</body>
+<script src="dcmachine.js"></script>
